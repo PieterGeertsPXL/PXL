@@ -1,0 +1,19 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-09-21T11:07:02</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2021.2.0.0</property>
+    <property name="modified">2021-09-21T11:55:28</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5c962c" />
+      </value>
+    </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value />
+    </option>
+  </attributes>
+</scheme>
